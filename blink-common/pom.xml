@@ -11,5 +11,11 @@
 
     <artifactId>blink-common</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+    <dependency>
+      <groupId>org.apache.flink</groupId>
+      <artifactId>flink-core</artifactId>
+    </dependency>
+  </dependencies>
 
 </project>
